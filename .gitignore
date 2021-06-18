@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+.idea/
+
+# Distribution / packaging
+.Python
+venv/
+env/
+*.sqlite3
+.idea/
+# Project asset folders
+media/
+<<<<<<< HEAD
+
+=======
+# Database
+db.sqlite3
+>>>>>>> f34c43eeb4531c5eb057e8f4fbf8a4fb957c3dfe
+# Editor directories and files
+.idea
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

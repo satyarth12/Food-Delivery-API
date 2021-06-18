@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\HomeshefAPI-master\staticfiles
+Migrations for 'review':
+  review\migrations\0001_initial.py
+    - Create model Feedback
