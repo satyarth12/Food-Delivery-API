@@ -1,6 +1,8 @@
 # Food-Delivery-API
--> This API is built using django rest framework and has all the features (Vendor and Customer) of a food delivery app, say Zomato. \
--> A user can have to profiles, vendor and customer, with the same auth credentials. 
+This API is built using django rest framework and has all the features (Vendor and Customer) of a food delivery app, say Zomato. \
+A user can have to profiles, vendor and customer, with the same auth credentials. \
+I have used custom authentication system with knox token library to give the user more reliablity and good experience.
+(Visit my https://github.com/satyarth12/DRF-custom_mobileOTP_auth repo for the custom auth)
 
 ## Installation :
 ```
