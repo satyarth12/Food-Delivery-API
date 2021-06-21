@@ -22,7 +22,7 @@ https://myfoodyapp.herokuapp.com/account/ \
 https://myfoodyapp.herokuapp.com/userinfo/ \
 https://myfoodyapp.herokuapp.com/home-kitchen/ \
 https://myfoodyapp.herokuapp.com/order/ \
-https://myfoodyapp.herokuapp.com/moredata/ \
+https://myfoodyapp.herokuapp.com/moredata/ 
 
 ## Contact Me:
 Incase of any issue you face in this app, feel free to reach me out at satyarthdev@protonmail.com
