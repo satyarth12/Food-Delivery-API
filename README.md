@@ -1,5 +1,5 @@
 # Food-Delivery-API
--> This API is built using django rest framework and has all the features (Vendor and Customer) of a food delivery app, say Zomato. 
+-> This API is built using django rest framework and has all the features (Vendor and Customer) of a food delivery app, say Zomato.__
 -> A user can have to profiles, vendor and customer, with the same auth credentials. 
 
 ## Installation :
